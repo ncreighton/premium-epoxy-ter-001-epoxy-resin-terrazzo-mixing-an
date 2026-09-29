@@ -1,0 +1,2 @@
+# premium-epoxy-ter-001-epoxy-resin-terrazzo-mixing-an
+Stop wasting expensive epoxy on failed batches. Track every mix ratio and pot life precisely so each terrazzo pour comes out flawless.  This Notion template eliminates guesswork by providing a structured log for recording resin and hardener ratios, pot life start and end times, and batch notes. It ensures repeatable results, reduces material waste,
